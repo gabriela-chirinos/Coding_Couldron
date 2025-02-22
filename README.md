@@ -2,7 +2,9 @@
 
 🧙‍♂️ The Coding Cauldron: A Tech Stack & Development Journey 🏰✨
 
-For this project, I leveraged modern web technologies to create a fully responsive, visually engaging, and fun Harry Potter-themed website inspired by the CUBE landing page.  [  https://preview.cruip.com/cube/index.html?ref=landingfolio ]
+I leveraged modern web technologies to create a fully responsive, visually engaging, and fun Harry Potter-themed website.
+
+Inspired by the CUBE landing page.  [  https://preview.cruip.com/cube/index.html?ref=landingfolio ]
 
 Frontend Framework: 🏗️ React.js – Used for component-based architecture, state management, and overall reusability.
 
