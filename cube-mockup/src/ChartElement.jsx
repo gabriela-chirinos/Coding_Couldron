@@ -1,12 +1,12 @@
 import Spline from "@splinetool/react-spline";
 
 const integrations = [
-  { id: 1, img: "/assets/platform.png", name: "NIne" },
-  { id: 2, img: "/assets/crest.png", name: "Crest" },
-  { id: 3, img: "/assets/glasses.png", name: "Glasses" },
-  { id: 4, img: "/assets/owl.png", name: "Owl" },
-  { id: 5, img: "/assets/bolt.png", name: "Bolt" },
-  { id: 6, img: "/assets/golden.png", name: "snitch" },
+  { id: 1, img: "./assets/platform.png", name: "NIne" },
+  { id: 2, img: "./assets/crest.png", name: "Crest" },
+  { id: 3, img: "./assets/glasses.png", name: "Glasses" },
+  { id: 4, img: "./assets/owl.png", name: "Owl" },
+  { id: 5, img: "./assets/bolt.png", name: "Bolt" },
+  { id: 6, img: "./assets/golden.png", name: "snitch" },
 ];
 
 export default function Integrations() {
