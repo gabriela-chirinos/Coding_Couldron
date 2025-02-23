@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Coding_Couldron/',
   plugins: [react(), tailwindcss(),],
-    base: '/Coding_Couldron/', // 👈 This must match your GitHub repo name exactly
-
+    
 })
