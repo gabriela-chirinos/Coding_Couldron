@@ -1,5 +1,7 @@
 # Coding_Couldron  
 
+![Couding Cauldron Demo](/cube-mockup/public/gif.gif)
+
 🧙‍♂️ The Coding Cauldron: A Tech Stack & Development Journey 🏰✨  👉🏽 [ https://gabriela-chirinos.github.io/Coding_Couldron/ ]
 
 I leveraged modern web technologies to create a fully responsive, visually engaging, and fun Harry Potter-themed website.
